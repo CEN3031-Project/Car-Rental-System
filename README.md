@@ -4,11 +4,11 @@ Planning your next vacation or business trip? Say goodbye to car rental hassles 
 
 ---
 
-### 🌟 Overview
+## 🌟 Overview
 - **Front-End**: Dynamic forms enable users to login/register, view available vehicles, and create reservations. The UI is designed for intuitive navigation and aesthetics with **Bootstrap**.
 - **Back-End**: Powered by an **SQLite database** that manages data on users, cars, and reservations. An admin panel allows management of inventory, user accounts, and rental statuses, with real-time updates.
 
-### 📅 Project Methodology
+## 📅 Project Methodology
 The project adhered to agile software engineering methodologies, specifically **Scrum**, incorporating:
 - Bi-weekly code reviews.
 - A JIRA-managed board with a product backlog.
